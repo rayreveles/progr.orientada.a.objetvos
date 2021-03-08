@@ -1,6 +1,6 @@
 /*Rayná Araújo Reveles - Matrícula: 0050013521*/
 
-class Main {
+public class Tabuada {
    
     public static void main (String[] args){
       
